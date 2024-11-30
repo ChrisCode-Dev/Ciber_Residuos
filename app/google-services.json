@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "598914346779",
+    "firebase_url": "https://connectstudy-bd273-default-rtdb.firebaseio.com",
+    "project_id": "connectstudy-bd273",
+    "storage_bucket": "connectstudy-bd273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598914346779:android:386d743414adea71a56dbe",
+        "android_client_info": {
+          "package_name": "com.academy.studyconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJyOnCFdie96PNo8Bd57Ym39bvLa6tlDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598914346779:android:b109644cbf2822e7a56dbe",
+        "android_client_info": {
+          "package_name": "com.example.ciber_residuos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJyOnCFdie96PNo8Bd57Ym39bvLa6tlDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
